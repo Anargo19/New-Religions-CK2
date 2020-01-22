@@ -30,7 +30,7 @@ New_Religions_TM = {
 	
 	anargoism_reformed = {
 		graphical_culture = westerngfx
-		icon = 59
+		icon = 60
 		
 		color = { 0 0 0}
 		
@@ -75,7 +75,7 @@ New_Religions_TM = {
 	}
 	anargoism = {
 		graphical_culture = westerngfx
-		icon = 59
+		icon = 60
 		
 		color = { 0 0 0}
 		
@@ -110,7 +110,7 @@ New_Religions_TM = {
 	}
 	telchorism = {
 		graphical_culture = mongolgfx
-		icon = 59
+		icon = 60
 		
 		color = { 255 0 0}
 		
