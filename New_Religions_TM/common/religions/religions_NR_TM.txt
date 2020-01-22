@@ -14,7 +14,6 @@ secret_religion_visibility_trigger = {
 
 New_Religions_TM = {
 	has_coa_on_barony_only = yes
-	graphical_culture = westerngfx
 	crusade_cb = crusade
 	playable = yes
 	ai_peaceful = yes # Will make Hordes lose their super aggressiveness
@@ -31,6 +30,7 @@ New_Religions_TM = {
 	anargoism_reformed = {
 		graphical_culture = westerngfx
 		icon = 60
+		heresy_icon = 61
 		
 		color = { 0 0 0}
 		
@@ -53,7 +53,15 @@ New_Religions_TM = {
 		can_demand_religious_conversion = yes
 		allow_in_ruler_designer = no
 		
-		investiture = yes
+		can_demand_religious_conversion = yes
+		can_have_antipopes = yes
+		can_excommunicate = yes
+		can_grant_divorce = yes
+		can_grant_invasion_cb = invasion
+		can_grant_claim = yes
+		can_call_crusade = yes
+		
+		investiture = no
 		religious_clothing_head = 0
 		religious_clothing_priest = 3
 
@@ -76,6 +84,7 @@ New_Religions_TM = {
 	anargoism = {
 		graphical_culture = westerngfx
 		icon = 60
+		heresy_icon = 61
 		
 		color = { 0 0 0}
 		
@@ -109,8 +118,8 @@ New_Religions_TM = {
 		priests_can_marry = yes
 	}
 	telchorism = {
-		graphical_culture = mongolgfx
-		icon = 60
+		icon = 61
+		
 		
 		color = { 255 0 0}
 		
