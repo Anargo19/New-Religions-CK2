@@ -1,21 +1,21 @@
 #CODE;ENGLISH;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
-New_Religions_TM;Name religion group;Nom groupe religion;Cesi;Cesi;;;;;;;;;x
+New_Religions_TM;New Religions TM;New Religions TM;Cesi;Cesi;;;;;;;;;x
 THE_HOLY_CRUSADE;The Holy Crusade;La Sainte Croisade;i;i;;;;;;;;;x
-THE_SITH_CODE;The Sith Code;Le code Sith;i;i;;;;;;;;;x
+THE_SITH_CODE;The Anargo's code;Le code d'Anargo;i;i;;;;;;;;;x
 CRUSADER;Anargoism Missionary;Missionaire de L'Anargoisme;i;i;;;;;;;;;x
 GOD_ANARGO;Anargo;Anargo;i;i;;;;;;;;;x
 TELCHOR;Telchor;Telchor;i;i;;;;;;;;;x
 anargoism;Anargoism;Anargoisme;i;i;;;;;;;;;x
-anargoism_DESC;i;Cette religion est dédié au seul et vrai Dieu Anargo. Il a vécut parmis nous, et nous protègera toujours.;i;i;;;;;;;;;x
-telchorism;i;Telchorisme;i;i;;;;;;;;;x
-telchorism_DESC;i; Religion dédiée au Dieu Telchor, dieu de la débauche;i;i;;;;;;;;;x
-BARATHON;i;Barathon;i;i;;;;;;;;;x
-MONK_MUSCLE;i;Moine du Muscle;i;i;;;;;;;;;x
+anargoism_DESC;This religion worship the only true god Anargo. He lived among us, and will protect us forever.;Cette religion est dédié au seul et vrai Dieu Anargo. Il a vécut parmis nous, et nous protègera toujours.;i;i;;;;;;;;;x
+telchorism;Telchorism;Telchorisme;i;i;;;;;;;;;x
+telchorism_DESC;We worship the god Telchor, god of debauchery; Religion dédiée au Dieu Telchor, dieu de la débauche;i;i;;;;;;;;;x
+BARATHON;Pub crawl;Barathon;i;i;;;;;;;;;x
+MONK_MUSCLE;Muscular monk;Moine du Muscle;i;i;;;;;;;;;x
 BONHOMME_EPICE;i;Le petit bonhomme en pain d'épices;i;i;;;;;;;;;x
 STAT_PIETY_G.S;i;grammes par litre de sang;i;i;;;;;;;;;x
 STAT_PIETY_DESC_G.S;i; Ardeur à faire des actions viriles;i;i;;;;;;;;;x
 MONTHLY_PIETY_G.S;i; Pintes par mois;i;i;;;;;;;;;x
-anargoism_reformed;i; Le Nouvel Anargoisme;i;i;;;;;;;;;x
-anargoism_reformed_DESC;i;Bienvenue dans le nouvel Anargoisme;i;i;;;;;;;;;x
-anargo_incarnation;i;L'incarnation d'Anargo;i;i;;;;;;;;;x
-d_anargoism_reformed;i;La Sainte Terre d'Anargo;i;i;;;;;;;;;x
+anargoism_reformed;The New Anargoism; Le Nouvel Anargoisme;i;i;;;;;;;;;x
+anargoism_reformed_DESC;Welcome to The New Anargoism;Bienvenue dans le nouvel Anargoisme;i;i;;;;;;;;;x
+anargo_incarnation;Anargo's incarnation;L'incarnation d'Anargo;i;i;;;;;;;;;x
+d_anargoism_reformed;The Anargo's Holy Land;La Sainte Terre d'Anargo;i;i;;;;;;;;;x
